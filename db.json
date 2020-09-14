@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+  	{"id": 1, "title": "Mr.", "forename": "James", "surname": "Fisher" },
+  	{"id": 2, "title": "Ms.", "forename": "Josie", "surname": "Jump" },
+  	{"id": 3, "title": "Gaylord", "forename": "Andrew", "surname": "Mayes"},
+  	{"id": 4, "title": "", "forename": "Costa", "surname": "Coffee"}
+  ]
+}
 }
